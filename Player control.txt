@@ -1,0 +1,11 @@
+player 1 control
+
+w = jump
+A = left movement
+D = right movement
+
+player 2 control
+
+up Arrow = jump
+Left arrow = left movemnt
+right arrow = right movement
